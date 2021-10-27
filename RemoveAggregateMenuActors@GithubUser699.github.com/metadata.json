@@ -1,0 +1,10 @@
+{
+  "description": "A GNOME extension, that removes things like brightness and volume slider options from the system menu.",
+  "name": "Remove Aggregate Menu Actors",
+  "shell-version": [
+    "3.38"
+  ],
+  "url": "https://github.com/GithubUser699/RemoveAggregateMenuActors",
+  "uuid": "RemoveAggregateMenuActors@GithubUser699.github.com",
+  "version": 1
+}
